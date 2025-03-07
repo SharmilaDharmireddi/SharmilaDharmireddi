@@ -1,4 +1,4 @@
-<img  align="left" height="150" scr="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hsanlnY2xjcDN2eXY5dGhlaXQ1bHdpd2k1NTFqYWJoeTI4bTcwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img  align="left" height="150" scr="" />
 <h2 align="center">Hi 👋! I'm Sharmila Dharmireddi</h2>
 <h3 align="center">Java Full Stack Developer(FRESHER)</h3>
 <h4 align="left">As a fresher Full Stack Java Developer, I bring a solid foundation in Java and expertise in both frontend (HTML, CSS, JavaScript) and backend (Spring Boot, Node.js) technologies. I have hands-on experience building end-to-end web applications, developing RESTful APIs, and managing databases. My strong problem-solving skills, continuous learning mindset, and adaptability make me a valuable team member. I have led small teams and am eager to relocate to tech hubs. Certifications and successful project outcomes further demonstrate my commitment and potential.</h4>
